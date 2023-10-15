@@ -7,7 +7,7 @@ struct triangle
 	int a;
 	int b;
 	int c;
-};
+}
 
 typedef struct triangle triangle;
 
